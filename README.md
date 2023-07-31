@@ -4,8 +4,6 @@
 
 ## Какие навыки у меня есть:
 
----
-
 - JavaScript (основы языка, ES6)
 - HTML
 - CSS (SASS, flexbox, grid, простые анимации, адаптивная верстка, резиновая верстка)
@@ -16,8 +14,6 @@
 - Jest, Cypress, Playwright
 
 ## Мои проекты:
-
----
 
 ### [Космическая бургерная](https://github.com/Jenyadio/react-burger)
 
@@ -32,25 +28,19 @@
 
 Адаптивный сайт (сделан по макету из Figma) для трех групп устройств: десктопные экраны, планшеты и смартфоны. Можно посмотреть карточки питомцев и подробную информацию про каждого из них (реализована карусель, модальное окно, попап, бургер-меню). Написано на JavaScript без использования библиотек.
 
-### [Приложение по управлению финансами](https://rolling-scopes-school.github.io/jenyadio-JSFE2023Q1/shelter/pages/main/)
+### [Приложение по управлению финансами](https://github.com/Jenyadio/bhj-diploma)
 
 Приложение, в котором можно вести учет финансов: создавать/удалять счета и транзакции.
 
 ## Тестовые:
 
----
-
 ### [Тестовое для Лаборатории Касперского](https://github.com/Jenyadio/Kaspersky-test)
 
 ## Мой Codewars:
 
----
-
 [![codewars](https://www.codewars.com/users/Jenyadio/badges/large)](https://www.codewars.com/users/username)
 
 ## Курсы и дипломы:
-
----
 
 - Реакт-разработчик (Яндекс)
 - [Продвинутый JS (Нетология)](https://github.com/Jenyadio/Jenyadio/public/JS-advanced.png)
