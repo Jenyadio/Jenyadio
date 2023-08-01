@@ -42,10 +42,10 @@
 
 ## Курсы и дипломы:
 
-- Реакт-разработчик (Яндекс)
-- [Продвинутый JS (Нетология)](../Jenyadio/public/JS-advanced.png)
-- [Основы JS (Нетология)](../Jenyadio/public/JS-beginner.png)
-- [Обучение по Git (Нетология)](../Jenyadio/public/Git.png)
-- [Веб-разработка для начинающих: HTML and CSS (Stepik)](../Jenyadio/public/stepik.png)
+- Реакт-разработчик (Яндекс) (скоро будет)
+- [Продвинутый JS (Нетология)](https://github.com/Jenyadio/my-resume/blob/main/public/JS-advanced.png)
+- [Основы JS (Нетология)](https://github.com/Jenyadio/my-resume/blob/main/public/JS-beginner.png)
+- [Обучение по Git (Нетология)](https://github.com/Jenyadio/my-resume/blob/main/public/Git.png)
+- [Веб-разработка для начинающих: HTML and CSS (Stepik)](https://github.com/Jenyadio/my-resume/blob/main/public/stepik.png)
 
-Но вообще я постоянно учусь, что-то смотрю или читаю по своей теме. Непрерывное саморазвитие - залог успеха :)
+Но вообще я постоянно учусь, что-то смотрю или читаю по своей теме. Непрерывное саморазвитие - ключ к успеху :)
