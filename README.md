@@ -42,7 +42,7 @@
 
 ## Курсы и дипломы:
 
-- Реакт-разработчик (Яндекс) (скоро будет)
+- [Реакт-разработчик (Яндекс)](https://github.com/Jenyadio/my-resume/blob/main/public/React-yandex.png)
 - [Продвинутый JS (Нетология)](https://github.com/Jenyadio/my-resume/blob/main/public/JS-advanced.png)
 - [Основы JS (Нетология)](https://github.com/Jenyadio/my-resume/blob/main/public/JS-beginner.png)
 - [Обучение по Git (Нетология)](https://github.com/Jenyadio/my-resume/blob/main/public/Git.png)
